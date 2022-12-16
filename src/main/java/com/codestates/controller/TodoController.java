@@ -8,6 +8,6 @@ public class TodoController {
 
     @GetMapping("/")
     public String hello() {
-        return "main branch 실습";
+        return "To-do Application !";
     }
 }
